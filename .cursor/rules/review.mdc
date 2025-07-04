@@ -2,5 +2,6 @@
 description: When reviewing code
 alwaysApply: false
 ---
-以下の観点に基づきコードをレビューしてください
+レビューするときはコードを書き換えないでください
+また、以下の観点に基づきコードをレビューしてください
 # レビュー観点
