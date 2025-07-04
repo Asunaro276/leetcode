@@ -1,7 +1,5 @@
 package leetcode
 
-import "slices"
-
 /*
  * @lc app=leetcode id=26 lang=golang
  *

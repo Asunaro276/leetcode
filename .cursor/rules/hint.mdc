@@ -1,0 +1,8 @@
+---
+description: When asked for a hint
+alwaysApply: false
+---
+どういったパターンの問題かを答えてください
+例) Two Sum -> Two Pointers, Maximum Average Subarray -> Sliding Window
+
+また、現在の実装の方向性があっているかどうかも教えて下さい
